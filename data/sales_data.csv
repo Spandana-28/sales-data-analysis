@@ -1,0 +1,7 @@
+
+order_id,date,region,product,quantity,price
+1001,2024-01-05,East,Headphones,2,49.99
+1002,2024-01-08,West,Keyboard,1,89.00
+1003,2024-02-14,South,Mouse,3,24.50
+1004,2024-02-28,North,Monitor,1,199.00
+1005,2024-03-03,East,Webcam,2,59.00
